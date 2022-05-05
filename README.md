@@ -8,22 +8,11 @@
 
 Για το σκοπό αυτό θα επιλέξουμε αντικείμενα καθημερινής χρήσης που συνήθως τα ανακυκλώνουμε αλλά τελικά θα ήταν προτιμότερο να προωθηθούν ως προϊόντα για άλλη χρήση στα πλαίσια της λογικής της κυκλικής οικονομίας.
 
-Τα υλικά που θα χρειαστούμε είναι
+Τα υλικά που θα χρειαστούμε αναφέρονται σε αυτό το αρχείο
 
-Raspberry Pi 4 (4 GB) 70 euro
-https://grobotronics.com/raspberry-pi-4-model-b-4gb.html
+https://github.com/ezeakis/ellak4_smart_bin/blob/main/Material
 
-Camera 30 euro
-https://grobotronics.com/raspberry-pi-camera-module-v2-8mp-1080p.html
+Το έργο το δημιουργήσαμε σε δύο στάδια.
 
-Power Supply 10 euro
-https://grobotronics.com/power-supply-5v-3a-raspberry-pi-4-official-black.html
-
-SD Card 10 euro
-https://grobotronics.com/micro-sd-16gb-pre-loaded-with-noobs.html
-
-Enclosure 7 euro
-https://grobotronics.com/argon-poly-raspberry-pi-4-case.html
-
-Οθόνη Character LCD 4 euro
-https://grobotronics.com/basic-16x2-character-lcd-white-on-blue-5v-with-headers.html
+1. Στο πρώτο στάδιο γράψαμε μία εφαρμογή σε Tensorflow η οποία έτρεχε στους υπολογιστές μας και στην οποία δοκιμάσαμε την αναγνώριση αντικειμένων και την κατηγοριοποίησή τους
+2. Στο δεύτερο στάδιο μεταφέραμε τη συγκεκριμένη λογική σε Raspberry Pi με τη χρήση του Tensorflow Lite
