@@ -1,0 +1,29 @@
+Για την αρχική υλοποίηση σε υπολογιστή βασιστήκαμε σε μία παλιότερη δημιουργία που είχαμε φτιάξει στο dojo μας
+
+https://github.com/ezeakis/photo_to_voice
+
+Οι πηγές που είχαμε για εκείνο τον κώδικα ήταν 
+
+https://stackoverflow.com/questions/34588464/python-how-to-capture-image-from-webcam-on-click-using-opencv
+
+για να τραβήξουμε φωτογραφία
+
+https://github.com/googlecreativelab/teachablemachine-community/blob/master/snippets/markdown/image/tensorflow/keras.md
+
+για να αναγνωρίσουμε το αντικείμενο
+
+βρήκε κάπου ο Μιχάλης τον κώδικα των γραφημάτων;
+
+Για την τελική υλοποίηση χρησιμοποιήσαμε τις οδηγίες εγκατάστασης του tensorflow lite από εδώ
+
+https://pimylifeup.com/raspberry-pi-tensorflow-lite/
+
+Επίσης οδηγίες για την οθόνη
+
+???
+
+Οδηγίες για την κάμερα
+
+???
+
+
