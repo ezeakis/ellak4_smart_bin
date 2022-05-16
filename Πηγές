@@ -12,18 +12,10 @@ https://github.com/googlecreativelab/teachablemachine-community/blob/master/snip
 
 για να αναγνωρίσουμε το αντικείμενο
 
-βρήκε κάπου ο Μιχάλης τον κώδικα των γραφημάτων;
-
 Για την τελική υλοποίηση χρησιμοποιήσαμε τις οδηγίες εγκατάστασης του tensorflow lite από εδώ
 
 https://pimylifeup.com/raspberry-pi-tensorflow-lite/
 
-Επίσης οδηγίες για την οθόνη
+Επίσης οδηγίες για την οθόνη βρήκαμε εδώ
 
-???
-
-Οδηγίες για την κάμερα
-
-???
-
-
+https://pimylifeup.com/raspberry-pi-lcd-16x2/
