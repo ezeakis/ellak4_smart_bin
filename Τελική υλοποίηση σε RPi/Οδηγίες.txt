@@ -4,3 +4,6 @@ https://pimylifeup.com/raspberry-pi-tensorflow-lite/
 
 απλώς στο τέλος αντικαθιστούμε τα αρχεία με αυτού του φακέλου
 
+Επίσης συνδέουμε την οθόνη στο raspberry ακολουθώντας αυτές τις οδηγίες
+
+https://pimylifeup.com/raspberry-pi-lcd-16x2/
