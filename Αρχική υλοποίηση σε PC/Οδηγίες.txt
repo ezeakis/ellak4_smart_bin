@@ -8,7 +8,7 @@ pip install tensorflow
 
 pip install pillow
 
-Κατεβάζουμε στον υπολογιστή μας τα αρχεία whole_code.py και keras_model.h5 από αυτόν τον φάκελο και τα ανοίγουμε στο spyder
+Κατεβάζουμε στον υπολογιστή μας τα αρχεία code.py και keras_model.h5 από αυτόν τον φάκελο και ανοίγουμε το code.py στο spyder
 
 Συνδέουμε την κάμερα
 
@@ -26,4 +26,4 @@ pip install pillow
 
 https://teachablemachine.withgoogle.com/
 
-και δημιουργούμε το δικό μας μοντέλο
+και δημιουργούμε το δικό μας μοντέλο. Το τοποθετούμε στον ίδιο φάκελο με το αρχείο code.py
